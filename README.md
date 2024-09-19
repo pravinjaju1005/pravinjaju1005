@@ -31,13 +31,11 @@
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pravinjaju1005&show_icons=true&locale=en&layout=compact" alt="pravinjaju1005" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pravinjaju1005&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<hr style="border: 1px solid #000;"/>
-
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pravinjaju1005&show_icons=true&locale=en" alt="pravinjaju1005" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pravinjaju1005&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 
