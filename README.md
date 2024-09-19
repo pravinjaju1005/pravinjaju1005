@@ -31,13 +31,13 @@
 </p>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pravinjaju1005&show_icons=true&locale=en" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pravinjaju1005&show_icons=true&locale=en" alt="Top Languages" width="400" />
 </p>
-
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=pravinjaju1005&show_icons=true&locale=en" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pravinjaju1005&show_icons=true&locale=en" alt="GitHub Stats" width="400" />
 </p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pravinjaju1005&" alt="pravinjaju1005" /></p>
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pravinjaju1005&" alt="Streak Stats" width="400" />
+</p>
