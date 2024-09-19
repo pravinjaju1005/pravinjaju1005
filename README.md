@@ -35,9 +35,9 @@
 </p>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=pravinjaju1005&show_icons=true&locale=en" alt="GitHub Stats" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pravinjaju1005&show_icons=true&locale=en" alt="GitHub Stats" width="700" />
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pravinjaju1005&" alt="Streak Stats" width="400" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pravinjaju1005&" alt="Streak Stats" width="700" />
 </p>
